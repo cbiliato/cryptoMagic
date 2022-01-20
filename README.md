@@ -1,5 +1,5 @@
 # cryptoMagic
-cryptoMagic code for engg1400
+cryptoMagic code for engg1410
 
 Use:
 To use this program first make sure that the file you want to encrypt or decrypt is in the same folder as the cryptoMagic.exe file.
